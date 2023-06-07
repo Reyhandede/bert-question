@@ -266,7 +266,8 @@ tokenizers==0.13.3
 toml==0.10.2
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.11.0+cpu
-torchvision==0.12.0
+--f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.12.0+cpu
 tornado==6.1
 tqdm==4.64.0
 traceback2==1.4.0
